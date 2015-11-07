@@ -1,0 +1,33 @@
+#+TITLE: 365 Papers
+#+AUTHOR: Eliezer Bernart
+#+EMAIL: firstname.lastname@gmail.com
+
+* 365 Papers
+
+This is a publicly available list of a series of papers I read updated every day.
+
+** Day 1
++ *Large-Scale Unusual Time Series Detective* - 2015
++ Nikolay Laptev and Rob Hyndman and Earo Wang
++ /ICDM 2015 - International Conference On Data Mining Series/
++ [[https://labs.yahoo.com/mobstor/publication_attachments/main.pdf][PDF Article]]  
+** Day 2
++ *Normalized Cuts and Image Segmentation* - 2000
++ Jianbo Shi and Jitendra Malik
++ /IEEE Transactions on Pattern Analysis and Machine Intelligence/
++ [[http://www.cs.cmu.edu/~jshi/papers/pami_ncut.pdf][PDF Article]]
+** Day 3
++ *Multi-view matching for unordered image sets, or “How do I organize my holiday snaps?”* - 2002
++ Frederik Schaffalitzky, Andrew Zisserman
++ /Lecture Notes in Computer Science/
++ [[http://www.researchgate.net/profile/Frederik_Schaffalitzky/publication/227169830_Multi-view_Matching_for_Unordered_Image_Sets_or_How_Do_I_Organize_My_Holiday_Snaps/links/0c96053581b96a9ce2000000.pdf][PDF Article]]
+** Day 4
++ *Frequency-tuned Salient Region Detection* - 2009
++ Achanta et al.
++ /IEEE Conference on Computer Vision and Pattern Recognition. CVPR 2009/
++ [[http://infoscience.epfl.ch/record/135217/files/1708.pdf][PDF Article]]
+** Day 5
++ *Creating Personalized Jigsaw Puzzles* - 2014
++ Cheryl Lau et al.
++ /Proc. 12th International Symposium on Non-Photorealistic Animation and Rendering/
++ [[http://chateaunoir.net/static/data/lau_2014_CreatingPersonalizedJigsawPuzzles.pdf][PDF Article]]
