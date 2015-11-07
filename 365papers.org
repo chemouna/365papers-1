@@ -2,8 +2,6 @@
 #+AUTHOR: Eliezer Bernart
 #+EMAIL: firstname.lastname@gmail.com
 
-* 365 Papers
-
 This is a publicly available list of a series of papers I read updated every day.
 
 ** Day 1
