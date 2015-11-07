@@ -2,7 +2,8 @@
 #+AUTHOR: Eliezer Bernart
 #+EMAIL: firstname.lastname@gmail.com
 
-This is a publicly available list of a series of papers I read updated every day.
+This is a publicly available list of a series of papers I read.
+Updates should happen daily.
 
 ** Day 1
 + *Large-Scale Unusual Time Series Detective* - 2015
