@@ -30,3 +30,8 @@ Updates should happen daily.
 + Cheryl Lau et al.
 + /Proc. 12th International Symposium on Non-Photorealistic Animation and Rendering/
 + [[http://chateaunoir.net/static/data/lau_2014_CreatingPersonalizedJigsawPuzzles.pdf][PDF Article]]
+** Day 6
++ *RGB-W: When Vision Meets Wireless* - 2015
++ Alahi, Alexandre and Haque, Albert and Fei-Fei, Li
++ /International Conference on Computer Vision 2015/
++ [[http://vision.stanford.edu/pdf/RGBW_ICCV15.pdf][PDF Article]]
